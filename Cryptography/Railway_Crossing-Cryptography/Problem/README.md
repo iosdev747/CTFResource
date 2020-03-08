@@ -1,0 +1,1 @@
+Grizzly and n00bie are at the Railway Station ready to solve the next challenge the hacker gives them. There they stumble upon a very suspicious piece of text "R@0N05NCLM5WDU" with 3 lines drawn underneath. They believe this is part of the challenge help them decrypt the code.
