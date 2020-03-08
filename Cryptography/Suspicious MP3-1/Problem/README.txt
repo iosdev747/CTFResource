@@ -1,0 +1,1 @@
+The gang are having trouble communicating with PyroManiac due to increased survaillence by the college administration when they recieve a suspicious audio file by their doorstep. Help them figure it out. ** Add FLAG, {, } by yourself
