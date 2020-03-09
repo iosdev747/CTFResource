@@ -1,0 +1,1 @@
+PyroManiac has organised a meet-up with other hackers to discuss about a recent exploit. This meet-up is in the night as hackers want to protect their idendity but girls and first years boys are trapped in Hostels because of time so they break into cams to disable them and join meet-up. Source code of disabling cams are leaked by a hacker "Gujju", use it to disable cams.
