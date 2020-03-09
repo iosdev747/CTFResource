@@ -1,0 +1,5 @@
+there are two ways to do it:
+
+01. compare the two images online using steganographic tools. this will enable in extracting latent data
+
+02. use photoshop/gimp. in this, place the hint over the question image, in layers panel, select difference, and then tweak the curves, saturation etc. 
