@@ -13,6 +13,7 @@ class GetMeOut1 {
 		System.out.print("Enter password: ");
         String pass = sc.next();
 		if(pass.equals("iKn0Wj4v4")) {
+			System.out.println("Cams Disabled");
 			System.out.println("Flag{j4j4_is_e4sY_to_D3C0mp1Le}");
 		}
    }
