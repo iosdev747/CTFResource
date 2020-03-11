@@ -1,0 +1,1 @@
+sceptical of probable eavesdropping issues, pyromaniac decided to use audio files to transfer messages. the gang is really on a tight schedule, so help them decipher the message.
