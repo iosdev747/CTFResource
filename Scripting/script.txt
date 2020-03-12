@@ -1,0 +1,9 @@
+<script>
+
+function lolfunction(){
+	var juice = 'base64 encrypted(URL TO THE FILE)';
+	window.open(atob(juice), '_blank');
+	return false;
+}
+
+</script>
