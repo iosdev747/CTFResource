@@ -1,0 +1,1 @@
+the gang wants to communicate with pyromaniac without being noticed. this time the message is of utmost importance, and the surveillance has been improving. so this time pyromaniac sent them two images one is the hint and other is the message. help the gang extract the message. 

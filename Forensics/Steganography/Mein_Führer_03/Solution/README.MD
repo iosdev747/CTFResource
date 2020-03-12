@@ -1,0 +1,3 @@
+MEIN FUHRER 3
+
+FLAG{y0uAr3aNh0n0uryM3m83r0fTh3f0urtHR31CH}
