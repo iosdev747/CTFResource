@@ -1,0 +1,2 @@
+Please complete GetMeOut-2 before attempting this.
+Admin is frustated as people finds admin password very easily. So he asked a student Rrockstar99 to code a secure app. He made a app which is uses basic encryption to avoid storing password in readable format. Since he is philomath also a n00b so its very easy to hack into. Disable the cams again.
