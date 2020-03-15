@@ -1,0 +1,3 @@
+rename to .png
+
+flag{EXTENSIONS_ARE_A_LIE}
