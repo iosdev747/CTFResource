@@ -2,8 +2,8 @@
 import socket
 import _thread
 
-HOST = '127.0.0.1'
-PORT = 3333
+HOST = '0.0.0.0'
+PORT = 4000
 
 def on_new_client(clientsocket,addr):
     #msg = clientsocket.recv(1024)
@@ -16,7 +16,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     try:
         s.bind((HOST, PORT))
     except:
-        print("Error binding port to "+Host+str(PORT))
+        print("Error binding port to "+HOST+str(PORT))
         exit(0);
     s.listen()
     while True:

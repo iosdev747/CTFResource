@@ -3,8 +3,8 @@ import socket
 import _thread
 import random
 
-HOST = '127.0.0.1'
-PORT = 3334
+HOST = '0.0.0.0'
+PORT = 4002
 
 def on_new_client(clientsocket,addr):
     try:
@@ -34,7 +34,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     try:
         s.bind((HOST, PORT))
     except:
-        print("Error binding port to "+Host+str(PORT))
+        print("Error binding port to "+HOST+str(PORT))
         exit(0);
     s.listen()
     while True:
